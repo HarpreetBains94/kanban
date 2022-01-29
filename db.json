@@ -1,0 +1,59 @@
+{
+  "data": [
+    {
+      "id": "a251a3d1-7d0b-4348-8fe9-4a7a75b0b0c7",
+      "name": "Katherine",
+      "team": "Product Management"
+    },
+    {
+      "id": "5d3945a2-86e6-45e7-bda8-ebf15c732886",
+      "name": "David",
+      "team": "Product Management"
+    },
+    {
+      "id": "75356a5b-fdda-4397-a941-d6c4d93cdef5",
+      "name": "Dorian",
+      "team": "Product Management"
+    },
+    {
+      "id": "94cb55bf-c017-4626-97b2-0b88e5d4e49f",
+      "name": "Daniel",
+      "team": "Product Management"
+    },
+    {
+      "id": "c37ef3ee-c9a0-4eec-b9fb-ccc2a697dbc2",
+      "name": "Greg",
+      "team": "UX"
+    },
+    {
+      "id": "e12c99c3-d44f-4b8a-b20f-4b2b4399cd63",
+      "name": "Val",
+      "team": "UX"
+    },
+    {
+      "id": "57f351b3-606e-4b6a-b213-770fab0b06a2",
+      "name": "Mingxi",
+      "team": "UX"
+    },
+    {
+      "id": "65a48685-32d3-4904-8fd8-bd3f6a9bb2f5",
+      "name": "Tara",
+      "team": "Engineering"
+    },
+    {
+      "id": "4dbec391-217d-40ae-80be-7887e29f3905",
+      "name": "Huseyn",
+      "team": "Engineering"
+    },
+    {
+      "id": "af8f05c1-ddb6-4a88-a16f-5b68b6abb43a",
+      "name": "New UI Developer",
+      "team": "Engineering"
+    },
+    {
+      "id": "d84a1963-d310-4a8f-bd67-26b09e0aef68",
+      "name": "Nickey",
+      "team": "Admin"
+    }
+  ]
+}
